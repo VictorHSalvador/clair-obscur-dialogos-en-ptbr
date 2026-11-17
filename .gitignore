@@ -1,0 +1,19 @@
+# Dados e preferências locais
+config.local.json
+instalacao.json
+work/
+extracted/
+stage/
+tools/
+__pycache__/
+*.pyc
+*.sav
+*.locres
+*.ucas
+*.utoc
+*.exe
+*.dll
+
+# Binários distribuídos pelas versões, fora do histórico Git
+*.pak
+*.zip

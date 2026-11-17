@@ -1,0 +1,923 @@
+{
+  "input_english_count": 13946,
+  "input_portuguese_count": 13270,
+  "candidate_count": 7102,
+  "changed_count": 6947,
+  "unchanged_count": 6323,
+  "missing_pt_or_en": [
+    [
+      "ST_BD_VersosDraft",
+      "12_OsquioBattle_Osquio"
+    ],
+    [
+      "ST_BD_VersosDraft",
+      "26_OsquioBattle_Esquie"
+    ],
+    [
+      "ST_BD_VersosDraft",
+      "2_OsquioBattle_Osquio"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "01_Lumierans_Lum1"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "02_Lumierans_Lum2"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "03_Lumierans_Lum3"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "04_Lumierans_Lum4"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "05_Lumierans_Lum5"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "06_Lumierans_Lum6"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "07_Lumierans_Lum7"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "08_Lumierans_Lum8"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "09_Lumierans_Lum9"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "10_Lumierans_Lum10"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "S01_Lumierans_Lum2"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "S02_Lumierans_Lum2"
+    ],
+    [
+      "ST_BK_BackToLumiere",
+      "S03_Lumierans_Lum2"
+    ],
+    [
+      "ST_BK_Lumiere",
+      "02_YoloBros_JeanMarcNoah"
+    ],
+    [
+      "ST_BK_WorldMap",
+      "01_TransitionPlane_Esquie"
+    ],
+    [
+      "ST_BL_Entries",
+      "01_DeathMaelle_Gustave"
+    ],
+    [
+      "ST_BL_Entries",
+      "01_EnemyTargetOtherChar_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "01_UseItem_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "04_FailsAQTE_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "04_FailsAQTE_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "04_TurnStartNormal_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "07_KillsEnemy_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "07_ReceiveHeal_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "10_FailsAQTE_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "10_InsufficientItems_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "10_KillsEnemy_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "10_KillsEnemy_Verso"
+    ],
+    [
+      "ST_BL_Entries",
+      "13_DeathOtherChar_Lune"
+    ],
+    [
+      "ST_BL_Entries",
+      "13_DeathOtherChar_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "16_DeathOtherChar_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "16_DeathOtherChar_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "16_DeathOtherChar_Verso"
+    ],
+    [
+      "ST_BL_Entries",
+      "19_DeathOtherChar_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "19_DeathOtherChar_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "19_DeathOtherChar_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "22_DeathOtherChar_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "22_DeathOtherChar_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "22_DeathOtherChar_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_Attack_Maelle"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_EnemyTargetOtherChar_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_EnemyTargetSelf_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_HealAlly_Sciel"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_HealSelf_Monoco"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_TurnStartNormal_Gustave"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_TurnStartNormal_Lune"
+    ],
+    [
+      "ST_BL_Entries",
+      "S01_UseItems_Gustave"
+    ],
+    [
+      "ST_CS_1_1_01_MyFlower",
+      "25_Sophie"
+    ],
+    [
+      "ST_CS_1_1_02_TheGommage",
+      "02_Alexandre"
+    ],
+    [
+      "ST_CS_1_1_02_TheGommage",
+      "12_Gustave"
+    ],
+    [
+      "ST_CS_1_1_03_TheExpeditionFestival",
+      "04_Catherine"
+    ],
+    [
+      "ST_CS_1_1_03_TheExpeditionFestival",
+      "07_Lucien"
+    ],
+    [
+      "ST_CS_1_1_03_TheExpeditionFestival",
+      "08_Catherine"
+    ],
+    [
+      "ST_CS_1_2_01_TheEndOfExpedition33",
+      "17_Gustave"
+    ],
+    [
+      "ST_CS_1_2_01_TheEndOfExpedition33",
+      "26_Tristan"
+    ],
+    [
+      "ST_CS_1_3_12_EvequeIntro",
+      "01_Gustave"
+    ],
+    [
+      "ST_CS_1_3_12_EvequeIntro",
+      "04_Gustave"
+    ],
+    [
+      "ST_CS_1_3_14_IndigoTreeMessage",
+      "23_Lune"
+    ],
+    [
+      "ST_CS_1_4_2A_FindingMaelleInTheManor",
+      "06_Gustave"
+    ],
+    [
+      "ST_CS_1_4_2B_MaelleReunion",
+      "01_Gustave"
+    ],
+    [
+      "ST_CS_1_4_2B_MaelleReunion",
+      "02_Maelle"
+    ],
+    [
+      "ST_CS_1_4_3_NocoIntro",
+      "18_Gustave"
+    ],
+    [
+      "ST_CS_1_4_5_GobluOutro",
+      "04_Gustave"
+    ],
+    [
+      "ST_CS_1_6_3_ScielTheWarrior",
+      "04_Gustave"
+    ],
+    [
+      "ST_CS_1_7_2_MeetingEsquie",
+      "03_Esquie"
+    ],
+    [
+      "ST_CS_1_7_2_MeetingEsquie",
+      "05_Lune"
+    ],
+    [
+      "ST_CS_1_7_2_MeetingEsquie",
+      "30_Esquie"
+    ],
+    [
+      "ST_CS_1_7_2_MeetingEsquie",
+      "31_Lune"
+    ],
+    [
+      "ST_CS_1_8_4A_GustaveFinalAct",
+      "15_Maelle"
+    ],
+    [
+      "ST_CS_1_8_4B_GustaveFinalActPart2",
+      "01C_Maelle"
+    ],
+    [
+      "ST_CS_2_10_1_MeetingMonoco",
+      "04_Esquie"
+    ],
+    [
+      "ST_CS_2_10_1_MeetingMonoco",
+      "05_Monoco"
+    ],
+    [
+      "ST_CS_2_11_1_ArrivingInOldLumiere",
+      "04_Verso"
+    ],
+    [
+      "ST_CS_2_11_3_VersoDisappears",
+      "02_Maelle"
+    ],
+    [
+      "ST_CS_2_11_3_VersoDisappears",
+      "03_Maelle"
+    ],
+    [
+      "ST_CS_2_11_4_MirrorRenoirRound2",
+      "02_Verso"
+    ],
+    [
+      "ST_CS_2_11_5_NocosDeath",
+      "02_Verso"
+    ],
+    [
+      "ST_CS_2_11_6_SoStartsTheAxonHunt",
+      "31_Curator"
+    ],
+    [
+      "ST_CS_2_12_1_IntroSirene",
+      "02A_Verso"
+    ],
+    [
+      "ST_CS_2_14_1_TheCentralPlazaOfVisages",
+      "11_MaskKeeper"
+    ],
+    [
+      "ST_CS_2_14_3_VisagesMidbattle",
+      "07_Maelle"
+    ],
+    [
+      "ST_CS_2_14_4_TheEndOfVisages",
+      "08_Verso"
+    ],
+    [
+      "ST_CS_2_15_1_CampAfterFirstAxon",
+      "05A_Maelle"
+    ],
+    [
+      "ST_CS_2_15_2_CampAfterSecondAxon",
+      "03_Verso"
+    ],
+    [
+      "ST_CS_2_15_2_CampAfterSecondAxon",
+      "20_Esquie"
+    ],
+    [
+      "ST_CS_2_16_3_GoingInsideTheMonolith",
+      "12_Verso"
+    ],
+    [
+      "ST_CS_2_16_3_GoingInsideTheMonolith",
+      "19_Lune"
+    ],
+    [
+      "ST_CS_2_18_1_ThePaintress",
+      "07_Lune"
+    ],
+    [
+      "ST_CS_2_18_2_PaintressTransitionToPhase2",
+      "01A_Lune"
+    ],
+    [
+      "ST_CS_2_18_2_PaintressTransitionToPhase2",
+      "02_Verso"
+    ],
+    [
+      "ST_CS_2_18_4_TheEndOfThePaintress",
+      "03_Aline"
+    ],
+    [
+      "ST_CS_2_19_2_TheFinalGommage",
+      "new06_MirrorAlicia"
+    ],
+    [
+      "ST_CS_2_19_2_TheFinalGommage",
+      "new28_MirrorAlicia"
+    ],
+    [
+      "ST_CS_2_9_1_MourningGustave",
+      "43_Verso"
+    ],
+    [
+      "ST_CS_2_9_5_MaellesBreakdown",
+      "12_Sciel"
+    ],
+    [
+      "ST_CS_2_9_6_BattleDuelliste",
+      "04A_Sciel"
+    ],
+    [
+      "ST_CS_3_20_0A_Paris",
+      "02_Clea"
+    ],
+    [
+      "ST_CS_3_20_0C_AliciaBirth",
+      "36_LumiereMother"
+    ],
+    [
+      "ST_CS_3_20_1_RedAndWhiteTree",
+      "01_Verso"
+    ],
+    [
+      "ST_CS_3_20_2_MeetingRealRenoir",
+      "01_Maelle"
+    ],
+    [
+      "ST_CS_3_20_2_MeetingRealRenoir",
+      "02_RealRenoir"
+    ],
+    [
+      "ST_CS_3_20_2_MeetingRealRenoir",
+      "32_RealRenoir"
+    ],
+    [
+      "ST_CS_3_20_2_MeetingRealRenoir",
+      "39_Esquie"
+    ],
+    [
+      "ST_CS_3_21_2_FacingRenoir",
+      "01_Maelle"
+    ],
+    [
+      "ST_CS_3_21_2_FacingRenoir",
+      "02_RealRenoir"
+    ],
+    [
+      "ST_CS_3_21_4_RenoirFightPhase2To3",
+      "06_Maelle"
+    ],
+    [
+      "ST_CS_3_21_5_RenoirsEnd",
+      "29_Maelle"
+    ],
+    [
+      "ST_CS_3_21_7_EndingIfVersoWins",
+      "07A_Verso"
+    ],
+    [
+      "ST_CS_SC_01_1_SimonIntro",
+      "03_Verso"
+    ],
+    [
+      "ST_CS_SC_02_1_MirrorCleaIntro",
+      "01_Verso"
+    ],
+    [
+      "ST_CS_SC_02_2_MirrorCleaOutro",
+      "03_Verso"
+    ],
+    [
+      "ST_CS_SC_03_1_MagicVerso",
+      "17_Lune"
+    ],
+    [
+      "ST_CS_SC_05_1_MeetingOsquio",
+      "5_Osquio"
+    ],
+    [
+      "ST_CS_SC_05_2_TheEndofOsquio",
+      "15_Sciel"
+    ],
+    [
+      "ST_CS_SC_05_2_TheEndofOsquio",
+      "3_Osquio"
+    ],
+    [
+      "ST_DS_Camp",
+      "01_CampScielEsquie_Sciel"
+    ],
+    [
+      "ST_DS_Camp",
+      "02_CampAct3ALune_Verso"
+    ],
+    [
+      "ST_DS_Camp",
+      "02_CampOlEsquie_Verso"
+    ],
+    [
+      "ST_DS_Camp",
+      "12A_AftermathLadies_Sciel"
+    ],
+    [
+      "ST_DS_Camp",
+      "12_CampMaelleSciel_Maelle"
+    ],
+    [
+      "ST_DS_Camp",
+      "32_CampScielEsquie_Esquie"
+    ],
+    [
+      "ST_DS_Lumiere",
+      "02_FestivalAlan_Alan"
+    ],
+    [
+      "ST_DS_Lumiere",
+      "10_FestivalApprentices_Gustave"
+    ],
+    [
+      "ST_DS_Lumiere",
+      "10_FestivalMaxime_Gustave"
+    ],
+    [
+      "ST_DS_Lumiere",
+      "11_FestivalSciel_Gustave"
+    ],
+    [
+      "ST_DS_Lumiere",
+      "16_Estelle_Sophie"
+    ],
+    [
+      "ST_DS_RdEsquie",
+      "01_RdEs1Stones_Esquie"
+    ],
+    [
+      "ST_DS_RdEsquie",
+      "02_RdEs6BFrancoisReunion_Esquie"
+    ],
+    [
+      "ST_DS_RdEsquie",
+      "06_RdEs6EFluffySoul_Esquie"
+    ],
+    [
+      "ST_DS_RdEsquie",
+      "10_RdEs4Constellations_Verso"
+    ],
+    [
+      "ST_DS_RdEsquie",
+      "A12_RdEs6ARemembers_Esquie"
+    ],
+    [
+      "ST_DS_RdLune",
+      "10_RdLu6AExp46_Verso"
+    ],
+    [
+      "ST_DS_RdLune",
+      "24_RdLu6AExp46_Verso"
+    ],
+    [
+      "ST_DS_RdMaelle",
+      "19_RdMa7Betrayal_Maelle"
+    ],
+    [
+      "ST_DS_RdMonoco",
+      "04_RdMo6BSacredRiver_Golgra"
+    ],
+    [
+      "ST_DS_RdMonoco",
+      "12_RdMo6CReunion_Noco"
+    ],
+    [
+      "ST_DS_RdMonoco",
+      "14_RdMo6CReunion_Monoco"
+    ],
+    [
+      "ST_DS_RdMonoco",
+      "17_RdMo6BSacredRiver_Monoco"
+    ],
+    [
+      "ST_D_DarkGestralArena",
+      "ST_D_DarkGestralArena_Pots_Golgra_03"
+    ],
+    [
+      "ST_D_GestralVillage",
+      "ST_Dialog_GestralVillage_Golgra_15"
+    ],
+    [
+      "ST_D_GestralVillage",
+      "ST_Dialog_GestralVillage_House5_01"
+    ],
+    [
+      "ST_D_GestralVillage",
+      "ST_Dialog_GestralVillage_NearArena2_08"
+    ],
+    [
+      "ST_D_GestralVillage",
+      "ST_Dialog_GestralVillage_ShadyStreet3_01"
+    ],
+    [
+      "ST_D_VersoDrafts",
+      "ST_D_VersoDrafts_DivingBoardKid_10"
+    ],
+    [
+      "ST_D_VersoDrafts",
+      "ST_D_VersoDrafts_GestralBath11_01"
+    ],
+    [
+      "ST_D_VersoDrafts",
+      "ST_D_VersoDrafts_GestralBath11_03"
+    ],
+    [
+      "ST_D_VersoDrafts",
+      "ST_D_VersoDrafts_GestralBath11_10"
+    ],
+    [
+      "ST_D_VersoDrafts",
+      "ST_D_VersoDrafts_GestralBath11_14"
+    ],
+    [
+      "ST_D_VersoDrafts",
+      "ST_D_VersoDrafts_Poolside1_09"
+    ],
+    [
+      "ST_IWD_GrandFinale",
+      "03_LumiereAlmostThere_Sciel"
+    ],
+    [
+      "ST_IWD_Lumiere",
+      "03_LuMaelleC_Gustave"
+    ],
+    [
+      "ST_IWD_SpringMeadows",
+      "01_DeadTristan_Gustave"
+    ],
+    [
+      "ST_IWD_VersosDraft",
+      "6_OsquioScream_Esquie"
+    ]
+  ],
+  "empty_entries": [],
+  "source_hash_mismatches": [],
+  "namespace_changes": {
+    "ST_BD_AncientSanctuary": 4,
+    "ST_BD_EsquieNest": 5,
+    "ST_BD_GrandFinale": 19,
+    "ST_BD_Lumiere": 7,
+    "ST_BD_Manor": 1,
+    "ST_BD_MonocoStation": 5,
+    "ST_BD_MonolithInterior": 7,
+    "ST_BD_OldLumiere": 8,
+    "ST_BD_Prologue": 3,
+    "ST_BD_SeaCliff": 3,
+    "ST_BD_SpringMeadows": 1,
+    "ST_BD_ThePaintress": 11,
+    "ST_BD_VersosDraft": 27,
+    "ST_BK_BackToLumiere": 6,
+    "ST_BK_Lumiere": 12,
+    "ST_BK_WorldMap": 22,
+    "ST_BL_Entries": 723,
+    "ST_CS_1_0_01_PrologueIntro": 3,
+    "ST_CS_1_0_02_PrologueOutro": 1,
+    "ST_CS_1_1_01_MyFlower": 52,
+    "ST_CS_1_1_02_TheGommage": 29,
+    "ST_CS_1_1_03_TheExpeditionFestival": 16,
+    "ST_CS_1_1_08_TheDeparture": 17,
+    "ST_CS_1_2_01_TheEndOfExpedition33": 18,
+    "ST_CS_1_3_06_LuneArrives": 15,
+    "ST_CS_1_3_07_LuminizerIntro": 6,
+    "ST_CS_1_3_11_1_JarQuestA": 6,
+    "ST_CS_1_3_11_2_JarQuestB": 16,
+    "ST_CS_1_3_12_EvequeIntro": 2,
+    "ST_CS_1_3_13_EvequeOutro": 2,
+    "ST_CS_1_3_14_IndigoTreeMessage": 23,
+    "ST_CS_1_3_15_PostSpringMeadows": 40,
+    "ST_CS_1_4_1_WelcomeToTheFlyingWaters": 7,
+    "ST_CS_1_4_2A_FindingMaelleInTheManor": 5,
+    "ST_CS_1_4_2B_MaelleReunion": 15,
+    "ST_CS_1_4_3_NocoIntro": 28,
+    "ST_CS_1_4_4_Goblu": 4,
+    "ST_CS_1_4_5_GobluOutro": 10,
+    "ST_CS_1_4_6_LuneCampFairytales": 20,
+    "ST_CS_1_4_7_MaelleThePyro": 26,
+    "ST_CS_1_5_1_ArrivinginAncientSanctuary": 4,
+    "ST_CS_1_5_2_TheGestralDidAMassacre": 9,
+    "ST_CS_1_5_3_PostSakapatate": 15,
+    "ST_CS_1_5_4_UltimateSakapatateArrives": 11,
+    "ST_CS_1_5_5_TheEndOfTheUltimateSakapatate": 6,
+    "ST_CS_1_6_3_ScielTheWarrior": 11,
+    "ST_CS_1_6_5_PostGestralTournamentCS": 13,
+    "ST_CS_1_6_7_ForcedCampPostGestralVillage": 31,
+    "ST_CS_1_7_1_EnteringEsquiesNest": 14,
+    "ST_CS_1_7_2_MeetingEsquie": 38,
+    "ST_CS_1_7_3_Francois": 15,
+    "ST_CS_1_7_5_EsquieJoinsTheGroup": 18,
+    "ST_CS_1_7_6_ForcedCampSciel": 16,
+    "ST_CS_1_7_7_DependsWhichFamily": 28,
+    "ST_CS_1_7_8_AliciasNightPoem": 8,
+    "ST_CS_1_8_1_EnteringCliffs": 13,
+    "ST_CS_1_8_2_MeetingTheLampmaster": 1,
+    "ST_CS_1_8_3_LampmasterPhase2": 5,
+    "ST_CS_1_8_4A_GustaveFinalAct": 28,
+    "ST_CS_1_8_4B_GustaveFinalActPart2": 31,
+    "ST_CS_2_10_1_MeetingMonoco": 11,
+    "ST_CS_2_10_2_StalactAttack": 18,
+    "ST_CS_2_10_3_MonocoJoinsTheGroup": 39,
+    "ST_CS_2_11_1_ArrivingInOldLumiere": 10,
+    "ST_CS_2_11_2_DiscoveringTheTruth": 41,
+    "ST_CS_2_11_3_VersoDisappears": 2,
+    "ST_CS_2_11_4_MirrorRenoirRound2": 21,
+    "ST_CS_2_11_5_NocosDeath": 13,
+    "ST_CS_2_11_6_SoStartsTheAxonHunt": 52,
+    "ST_CS_2_11_7_AxonStrategy": 13,
+    "ST_CS_2_12_1_IntroSirene": 9,
+    "ST_CS_2_14_1_TheCentralPlazaOfVisages": 19,
+    "ST_CS_2_14_2_Visages": 1,
+    "ST_CS_2_14_3_VisagesMidbattle": 6,
+    "ST_CS_2_14_4_TheEndOfVisages": 9,
+    "ST_CS_2_15_1_CampAfterFirstAxon": 18,
+    "ST_CS_2_15_2_CampAfterSecondAxon": 48,
+    "ST_CS_2_15_4_BreakingTheBarrier": 2,
+    "ST_CS_2_15_5_TheBarrierStands": 9,
+    "ST_CS_2_16_1_MeetingThePaintress": 3,
+    "ST_CS_2_16_3_GoingInsideTheMonolith": 13,
+    "ST_CS_2_17_2_FinalFightWithMirrorRenoir": 21,
+    "ST_CS_2_17_3_TheEndOfMirrorRenoir": 26,
+    "ST_CS_2_18_1_ThePaintress": 26,
+    "ST_CS_2_18_2_PaintressTransitionToPhase2": 5,
+    "ST_CS_2_18_3_PaintressTransitionToPhase3": 2,
+    "ST_CS_2_18_4_TheEndOfThePaintress": 16,
+    "ST_CS_2_19_1_FlyBackToLumiere": 14,
+    "ST_CS_2_19_2_TheFinalGommage": 26,
+    "ST_CS_2_9_10_MaelleAndVersoBond": 31,
+    "ST_CS_2_9_1_MourningGustave": 44,
+    "ST_CS_2_9_2_VersoTriesToTalkToMaelle": 14,
+    "ST_CS_2_9_3_ArrivingInTheBattlefield": 14,
+    "ST_CS_2_9_5_MaellesBreakdown": 14,
+    "ST_CS_2_9_6_BattleDuelliste": 9,
+    "ST_CS_2_9_7_PostDuallist": 3,
+    "ST_CS_2_9_8_RipGustave": 17,
+    "ST_CS_2_9_9_OnwardToMonocosStation": 29,
+    "ST_CS_3_20_0A_Paris": 3,
+    "ST_CS_3_20_0B_AliciaAtelier": 2,
+    "ST_CS_3_20_0C_AliciaBirth": 35,
+    "ST_CS_3_20_1_RedAndWhiteTree": 30,
+    "ST_CS_3_20_2_MeetingRealRenoir": 40,
+    "ST_CS_3_20_3_ThePlanToCounterattack": 37,
+    "ST_CS_3_21_1_TomorrowComes": 4,
+    "ST_CS_3_21_2_FacingRenoir": 35,
+    "ST_CS_3_21_3_RenoirFightPhase1To2": 6,
+    "ST_CS_3_21_4_RenoirFightPhase2To3": 6,
+    "ST_CS_3_21_5_RenoirsEnd": 45,
+    "ST_CS_3_21_6_Finale": 28,
+    "ST_CS_3_21_7_EndingIfVersoWins": 9,
+    "ST_CS_3_21_8_EndingIfMaelleWins": 14,
+    "ST_CS_3_A_1_TheTwinTowers": 13,
+    "ST_CS_3_A_2_TheWorkshop": 15,
+    "ST_CS_3_A_3_MeetingTheReacher": 9,
+    "ST_CS_3_A_4_TheEndOfTheRealReacher": 8,
+    "ST_CS_SC_01_1_SimonIntro": 8,
+    "ST_CS_SC_01_1A_SimonBattleTransition": 6,
+    "ST_CS_SC_01_2_SimonOutro": 1,
+    "ST_CS_SC_02_1_MirrorCleaIntro": 9,
+    "ST_CS_SC_02_2_MirrorCleaOutro": 5,
+    "ST_CS_SC_03_1_MagicVerso": 39,
+    "ST_CS_SC_04_1_LuneAndSciel": 51,
+    "ST_CS_SC_05_1_MeetingOsquio": 21,
+    "ST_CS_SC_05_2_TheEndofOsquio": 21,
+    "ST_D_Camp": 52,
+    "ST_D_Carrousel": 16,
+    "ST_D_ChosenPath": 4,
+    "ST_D_CleasFlyingHouse": 18,
+    "ST_D_CleasWorkshop": 52,
+    "ST_D_DarkGestralArena": 91,
+    "ST_D_EsquieNest": 4,
+    "ST_D_FrozenHearts": 4,
+    "ST_D_GestralBeach": 75,
+    "ST_D_GestralVillage": 386,
+    "ST_D_HiddenGestralArena": 11,
+    "ST_D_JudgeOfMercy": 47,
+    "ST_D_Lumiere": 34,
+    "ST_D_Manor": 12,
+    "ST_D_Merchants": 8,
+    "ST_D_MonocoStation": 151,
+    "ST_D_MonolithClimb": 4,
+    "ST_D_OrangeForest": 12,
+    "ST_D_Reacher": 2,
+    "ST_D_RedWoods": 30,
+    "ST_D_SacredRiver": 5,
+    "ST_D_SeaCliff": 49,
+    "ST_D_Sirene": 8,
+    "ST_D_SireneDress": 14,
+    "ST_D_SmallBourgeon": 52,
+    "ST_D_StoneQuarry": 38,
+    "ST_D_SunlessCliffs": 8,
+    "ST_D_TwilightSanctuary": 19,
+    "ST_D_VersoDrafts": 225,
+    "ST_D_Visages": 16,
+    "ST_D_YellowForest": 2,
+    "ST_DS_Camp": 463,
+    "ST_DS_EsquieNest": 7,
+    "ST_DS_GestralVillage": 52,
+    "ST_DS_Lumiere": 506,
+    "ST_DS_LumiereMayhem": 64,
+    "ST_DS_Manor": 9,
+    "ST_DS_RdEsquie": 208,
+    "ST_DS_RdLune": 237,
+    "ST_DS_RdMaelle": 247,
+    "ST_DS_RdMonoco": 199,
+    "ST_DS_RdNoco": 25,
+    "ST_DS_RdSciel": 286,
+    "ST_IWD_AncientSanctuary": 4,
+    "ST_IWD_EsquieNest": 13,
+    "ST_IWD_ForgottenBattlefield": 11,
+    "ST_IWD_GestralVillage": 3,
+    "ST_IWD_Goblu": 18,
+    "ST_IWD_GrandFinale": 19,
+    "ST_IWD_Lumiere": 48,
+    "ST_IWD_LumiereMayhem": 7,
+    "ST_IWD_Manor": 5,
+    "ST_IWD_MonocoStation": 11,
+    "ST_IWD_MonolithInterior": 34,
+    "ST_IWD_OldLumiere": 29,
+    "ST_IWD_RdLune": 13,
+    "ST_IWD_Reacher": 12,
+    "ST_IWD_SeaCliff": 12,
+    "ST_IWD_SideLevels": 106,
+    "ST_IWD_Sirene": 23,
+    "ST_IWD_SpringMeadows": 17,
+    "ST_IWD_Trailer": 3,
+    "ST_IWD_VersosDraft": 33,
+    "ST_IWD_Visages": 31,
+    "ST_IWD_WorldMap": 35
+  },
+  "line_lengths": {
+    "english": {
+      "count": 7546,
+      "min": 1,
+      "median": 28,
+      "p90": 69,
+      "p95": 88,
+      "p99": 128,
+      "max": 320
+    },
+    "portuguese": {
+      "count": 7547,
+      "min": 2,
+      "median": 29,
+      "p90": 71,
+      "p95": 92,
+      "p99": 136,
+      "max": 346
+    },
+    "result": {
+      "count": 15093,
+      "min": 1,
+      "median": 28,
+      "p90": 70,
+      "p95": 90,
+      "p99": 131,
+      "max": 346
+    }
+  },
+  "full_text_lengths": {
+    "english": {
+      "count": 6947,
+      "min": 1,
+      "median": 30,
+      "p90": 75,
+      "p95": 91,
+      "p99": 129,
+      "max": 320
+    },
+    "portuguese": {
+      "count": 6947,
+      "min": 2,
+      "median": 31,
+      "p90": 77,
+      "p95": 94,
+      "p99": 139,
+      "max": 346
+    },
+    "result": {
+      "count": 6947,
+      "min": 5,
+      "median": 62,
+      "p90": 152,
+      "p95": 184,
+      "p99": 267,
+      "max": 667
+    }
+  },
+  "source_en_sha256": "e2c35e0df557952b40a39189ca84d2115f2e3fc00cc34e3d99baff6fe8049e0b",
+  "source_pt_sha256": "c47e78dd278dfe96290ab90a01788d8166e61710982e2420f5549b472dabd612",
+  "output_locres_sha256": "16413858d7d7080c38d7d3ceb477d6169c6e8e8394a9ac9c752217c45d2f0325",
+  "pak_sha256": "3c0a60c89f26f963c0c62536b05f5bc8041e7999e152cdec1b0e7d15428bdf56",
+  "pak_files": [
+    "Sandfall/Content/Localization/Game/pt-BR/Game.locres"
+  ],
+  "checks": [
+    "Byte-exact identity roundtrip",
+    "Exact namespace+key pairing",
+    "Matching source hashes",
+    "No duplicate identities",
+    "Every replacement is exact English + LF + official Portuguese",
+    "Unselected values and all entry metadata unchanged",
+    "Pak contains only pt-BR/Game.locres",
+    "Pak extraction byte-equals built locres",
+    "Independent UnrealLocres export matches all 13,270 built values",
+    "All 345 proven StartChoice keys unchanged",
+    "Zero Unicode replacement characters in original or modified values"
+  ],
+  "limitations": [
+    "No game launch or visual validation performed by builder",
+    "Keys absent from official PT resource are explicitly skipped and listed",
+    "Mixed interactive namespaces require asset-level allowlist; never inferred from row position",
+    "188 keys used as spoken and other text remain Portuguese, including 61 proven shared choice/spoken keys",
+    "One cinematic key used in a proven choice is blocked even though its namespace is otherwise cinematic",
+    "No verification of every possible dialogue branch; unsupported mixed keys remain Portuguese"
+  ],
+  "blocked_candidates_preserved": [
+    [
+      "ST_CS_3_21_6_Finale",
+      "24_Verso"
+    ]
+  ],
+  "classification_summary": {
+    "scanned_assets_with_stringtable_refs": 417,
+    "parse_errors": [],
+    "rich_only_paired_keys": 3752,
+    "shared_spoken_other_keys": 188,
+    "proven_choice_keys": 345,
+    "proven_choices_also_spoken": 61
+  }
+}
